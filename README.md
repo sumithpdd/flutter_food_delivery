@@ -1,16 +1,24 @@
 # flutter_food_delivery_ui
+https://marcus-ng.com/courses/764266
 
-A new Flutter project.
+> A quick UI for a Food delivery app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Food Delivery App
+ 
+- Project Overview: Food Delivery App (0:39)
+- Data and Models (2:13)
+- Home Screen and App Bar (3:45)
+- Search Bar (3:57)
+- Recent Orders (15:43)
+- Nearby Restaurants (11:37)
+- Restaurant Navigation Screen (1:56)
+- Stack and Hero Animation (11:08)
+- GridView Menu (11:18)
+- Cart Screen Items and Quantity Selector (13:16)
+- Bottom Sheet Checkout Button (7:15)
+***
+![Alt text](/screenshots/flutter_01.png?raw=true "Home screen")
+***
+![Alt text](/screenshots/flutter_02.png?raw=true "Restaurant detail screen")
+***
+![Alt text](/screenshots/flutter_03.png?raw=true "Checkout screen")
